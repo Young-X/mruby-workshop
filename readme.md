@@ -17,3 +17,11 @@ The `gdb` command is available to start mruby through gdb:
 
 Finally, the `mirb` command is available to spawn an interractive REPL within
 mruby.
+
+
+This project is forked from isra17/mruby-workshop
+
+Slides:
+https://docs.google.com/presentation/d/1wg5ny_Dd47TnsF7F8LjGEEobSPuwBjpbziQM6h_-Vzs/edit#slide=id.p
+script hacking
+with examples chrome, safari and so on.
